@@ -4,3 +4,52 @@
   background-color: #DADFE1;
   box-shadow: 0 0 8px #888888;
 }
+
+.title {
+  padding-top: 1em;
+  margin: 0;
+  font-size: 4em;
+  font-family: 'Montserrat Subrayada', sans-serif;
+  text-align: center;
+}
+
+.explainer {
+  width: 60%;
+  height: 15em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.top {
+  font-family: 'Lato', sans-serif;
+  font-size: 2em;
+}
+
+.ie {
+
+}
+
+.image1 {
+  border-radius: 25%;
+  overflow: hidden;
+  width: 30%;
+  display: inline-block;
+  float: left;
+}
+
+.image2 {
+  border-radius: 25%;
+  overflow: hidden;
+  width: 30%;
+  display: inline-block;
+  float: right;
+}
+
+.image3 {
+  border-radius: 25%;
+  overflow: hidden;
+  width: 30%;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}

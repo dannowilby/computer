@@ -10,7 +10,7 @@ export default class Product extends React.Component {
   render() {
     return (
       <div id='products' className={styles.content}>
-        argh
+        
       </div>
     );
   }
